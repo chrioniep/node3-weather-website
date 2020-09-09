@@ -1,4 +1,3 @@
-console.log("Client side javascript file is loadid")
 
 
 // fetch("http://localhost:3000/weather?address=boston").then((response) =>{
